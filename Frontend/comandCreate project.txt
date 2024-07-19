@@ -1,0 +1,7 @@
+
+1. npm create vite@latest . --template react (Ini udah pasti di dalam folder yang lu mau)
+2. npm install (wajib setelah buat project)
+3. npm run dev (buat jalanin servernya)
+4. npm install react-router-dom (Buat routenya)
+5. npm install react-axios (Buat API)
+6. npm install sweetalert2 (SweetAleert 2)
